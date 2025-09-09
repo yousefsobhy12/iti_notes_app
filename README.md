@@ -1,18 +1,5 @@
-# notes_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-dart run build_runner build --delete-conflicting-outputs# notes_app
+<img width="1080" height="2400" alt="Screenshot_20250909_225733" src="https://github.com/user-attachments/assets/68afb211-6b9a-4b39-bd88-56989b00e21e" />
+<img width="1080" height="2400" alt="Screenshot_20250909_225720" src="https://github.com/user-attachments/assets/b48a3d23-4ff6-4b39-b974-959795f95ff3" />
+<img width="1080" height="2400" alt="Screenshot_20250909_225707" src="https://github.com/user-attachments/assets/8e6ae83e-07dd-44e9-8ae5-fcf095c63d56" />
+<img width="1080" height="2400" alt="Screenshot_20250909_225649" src="https://github.com/user-attachments/assets/888b3b46-61aa-464b-9189-9c083e16e946" />
+<img width="1080" height="2400" alt="Screenshot_20250909_225816" src="https://github.com/user-attachments/assets/068823a0-1991-49e4-842a-f378f171ee85" />
